@@ -1,2 +1,2 @@
 # Multithreading
-Repository is for practising multithreading in springboot
+Multithreading in springboot
